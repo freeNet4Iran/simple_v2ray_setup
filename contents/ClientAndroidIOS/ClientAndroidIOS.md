@@ -7,7 +7,10 @@
 
 بعد از اینکه کد فعال سازی فیلتر شکن رو دریافت کردید میتونید با این راهنما فیلتر شکن رو نصب و تنظیم کنید. اگر لینک فعال سازی ندارید باید اول با استفاده از [راهنمای ساخت ](../ServerSide/ServerSide.md)، فیلتر شکن رو بسازید یا از دوستانتون بخواهید براتون بسازند. 
 
-![Sample](./0.jpg)
+<p align="center" width="100%">
+ <img width="" src="./0.jpg">
+</p>
+
 
 
 ## نکته اول: فیلترشکن رو به اشتراک نگذاری!
@@ -22,7 +25,10 @@
 
 ابتدا باید  [نرم افزار v2rayNG ](https://play.google.com/store/apps/details?id=com.v2ray.ang) رو دانلود و نصب کنید:
 
-![Sample](./1.jpg)
+<p align="center" width="100%">
+ <img width="" src="./1.jpg">
+</p>
+
 
 اگر به گوگل پلی دسترسی ندارید می‌تونید فایل رو از  [گوگل درایو ](https://drive.google.com/file/d/1I3tqnuCb30yhjFdp6Ab9xn5lLO8v1SKs/view?usp=sharing) دانلود کنید. بعد از دانلود موفق فایل، نصبش کنید.
 
@@ -32,24 +38,36 @@
 1.  قبل از باز کردن نرم افزار کد که فرستاده شده و شبیه اینه رو کپی کنید:
 
 ```
- vmess://eyF5IiwgInRsF5IiwgInRsF5IiwgInRsF5IiwgInRsF5IiwgInRsF5IYycmF5IiwgInRscyI6IiIsICJ0eXBlIjoibm9uZSIsICJ2IjoiMiJ9Cg==`
+ vmess://eyF5IiwgInRsF5IiwgInRsF5IiwgInRsF5IiwgInRsF5IiwgInRsF5IYycmF5IiwgInRscyI6IiIsICJ0eXBlIjoibm9uZSIsICJ2IjoiMiJ9Cg==
 ````
 
 2.  بعد وارد نرم افزار بشید و دکمه + رو از نوار بالا انتخاب کنید.
 
-![Sample](./2.jpg)
+<p align="center" width="100%">
+ <img width="" src="./2.jpg">
+</p>
+
 
 3. از لیستی که باز میشه Import config from Clipboard رو انتخاب کن.
 
-![Sample](./3.jpg)
+<p align="center" width="100%">
+ <img width="" src="./3.jpg">
+</p>
+
 
 4.  بعد باید همچین چیزی روی صفحه اومده باشه. البته آدرس داخل کادر قرمز ممکنه فرق کنه چون این تصویر فقط برای آموزش تهیه شده:
 
-![Sample](./4.jpg)
+<p align="center" width="100%">
+ <img width="" src="./4.jpg">
+</p>
+
 
 5. مرحله آخر دکمه طوسی رنگ V رو می‌زنید تا کانکت (متصل) بشید.
 
-![Sample](./5.jpg)
+<p align="center" width="100%">
+ <img width="" src="./5.jpg">
+</p>
+
 
 6.  بعد از این قسمت، دکمه طوسی سبز می‌شه و پایین نرم افزار می‌نویسه:
 connected, tap to check connection 
@@ -69,29 +87,44 @@ Fail to detect internet connection: io:read/write on closed pipe
 
 ابتدا باید نرم افزار  [ShadowLink ](https://apps.apple.com/us/app/shadowlink-shadowsocks-vpn/id1439686518) از اپ‌استور دانلود و نصب کنید:
 
-![Sample](./6.jpg)
+<p align="center" width="100%">
+ <img width="" src="./6.jpg">
+</p>
 
 نکته: در صورت فیلتر بودن اپ‌استور و عدم دسترسی به فیلترشکن دیگر، شما میتونید از طریق یک گوشی اندرویدی واسطه و دارای فیلترشکن، موقتا به اپ‌استور وصل شده و این نرم‌افزار را نصب کنید. راهنمای این کار را در  [این پست کانال تلگرام ](https://t.me/freeNet4Iran/34)  پیدا کنید. 
  
 1. وارد نرم افزار بشید و دکمه ضربدر×  رو بزنید تا تبلیغ رد بشه و وارد صفحه اصلی بشید. 
-
-![Sample](./7.jpg)
+<p align="center" width="100%">
+ <img width="" src="./7.jpg">
+</p>
 
 2. در صفحه اصلی روی نوار خالی (Server) بزنید.
 
-![Sample](./8.jpg)
+<p align="center" width="100%">
+ <img width="" src="./8.jpg">
+</p>
+
 
 3. بعد از انتخاب My Server، علامت + گوشه تصویر رو انتخاب کنید. 
 
-![Sample](./9.jpg)
+<p align="center" width="100%">
+ <img width="" src="./9.jpg">
+</p>
+
 
 4. سپس از لیست باز شده گزینه Server links رو انتخاب کنید.
 
-![Sample](./10.jpg)
+<p align="center" width="100%">
+ <img width="" src="./10.jpg">
+</p>
+
 
 5. سپس کدی که برایتان ارسال شده را باید داخل کادر سفید paste کنید و Save رو بزنید. 
 
-![Sample](./11.jpg)
+<p align="center" width="100%">
+ <img width="" src="./11.jpg">
+</p>
+
 
 نمونه کد: 
 ```
@@ -99,15 +132,20 @@ vmess://eygInRscyI6IiIgInRscyI6IiIgInRscyI6IiIgInRscyI6IiIgInRscyI6IiIgInRscyI6I
 ```
 
 6. دایره‌ی سفید (داخل مربع قرمز در تصویر) را انتخاب کنید.
-![Sample](./12.jpg)
+<p align="center" width="100%">
+ <img width="" src="./12.jpg">
+</p>
+
 
 7. در نهایت در صفحه اصلی روی دکمه با علامت پاور بزنید. اگر دایره دور دکمه با علامت پاور آبی رنگ باشه یعنی فیلترشکن‌تون وصله و اگر طوسی رنگ باشه یعنی قطعه. در صورتی که به سایت‌ها یا سرویس‌های فیلتر شده دسترسی نداشتید به کسی که این راهنما رو براتون فرستاده اطلاع بدید تا راهنماییتون کنه. 
 
-![Sample](./13.jpg)
+<p align="center" width="100%">
+ <img width="" src="./13.jpg">
+</p>
+
 
 * در صورتی که به سایت‌ها یا سرویس‌های فیلتر شده دسترسی نداشتید به کسی که این راهنمارو براتون فرستاده اطلاع بدید تا راهنماییتون کنه.
-
- * بازهم تأکید می‌کنیم که حواستون به حق ناشرها باشه و فیلم و آهنگ دانلود نکنید چون در این صورت کسی که وی پی ان رو براتون ساخته مورد پیگرد قانونی قرار می‌گیره.
+* بازهم تأکید می‌کنیم که حواستون به حق ناشرها باشه و فیلم و آهنگ دانلود نکنید چون در این صورت کسی که وی پی ان رو براتون ساخته مورد پیگرد قانونی قرار می‌گیره.
  
 
 
